@@ -1,5 +1,5 @@
 # Match-Flowers
-<img src='/img/preview.png'>
+![image](https://github.com/GoLinnn/Match-Flowers/blob/main/img/preview.png)
 ## 花朵匹配游戏  
 ### 目标
 创造匹配的花朵来赚取利润。  
